@@ -1,5 +1,3 @@
-// RECIEVED HELP FROM TA GEET TRIPATHI
-
 /* 
    Game of Chance:
    A simple game that asks for the user to input how much they would like to wager and what point value they would like.
