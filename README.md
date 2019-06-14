@@ -1,2 +1,2 @@
-# Projects_UC
+# Cpp_Projects
 A collection of C++ projects.
