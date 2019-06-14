@@ -1,5 +1,15 @@
 // RECIEVED HELP FROM TA GEET TRIPATHI
 
+/* 
+   Game of Chance:
+   A simple game that asks for the user to input how much they would like to wager and what point value they would like.
+   If their point value matches the randomly rolled die, they win how much they wagered. If not, they lose how much they
+   wagered.
+   
+   @author Melanie Mai
+   @version 20190609   
+*/
+
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
