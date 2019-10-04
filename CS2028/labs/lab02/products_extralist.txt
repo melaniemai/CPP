@@ -1,0 +1,59 @@
+ID: 914
+Units: 842
+Price: 12.95
+Description: Blue widget used for powering devices
+TaxExempt: False
+
+ID: 812
+Units: 590
+Price: 19.52
+Description: Clear tape
+TaxExempt: True
+
+ID: 003
+Units: 600
+Price: 9.56
+Description: Blue furry socks
+TaxExempt: False
+
+ID: 123
+Units: 123
+Price: 123.00
+Description: 144hz computer monitor
+TaxExempt: False
+
+ID: 710
+Units: 812
+Price: 50.00
+Desccription: A pink peach
+TaxExempt: True
+
+ID: 555
+Units: 12
+Price: 0.25
+Description: A thin wooden toothpick
+TaxExempt: True
+
+ID: 1001
+Units: 255
+Price: 99.00
+Description: A shiny yellow decked-out bike
+TaxExempt: False
+
+ID: 667
+Units: 999
+Price: 10.00
+Description: White untangled pair of headphones
+TaxExempt: True
+
+ID: 432
+Units: 73
+Price: 49.99
+Description: A flashy keyboard for intense gamers
+TaxExempt: False
+
+ID: 63
+Units: 842
+Price: 1.00
+Description: A plastic cup that will not harm your children
+TaxExempt: True
