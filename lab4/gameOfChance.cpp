@@ -1,5 +1,3 @@
-// RECIEVED HELP FROM TA GEET TRIPATHI
-
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
