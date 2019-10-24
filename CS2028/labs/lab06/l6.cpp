@@ -41,3 +41,16 @@ public:
   
   friend void displayTower(Stack<int> &tower);
 }
+
+template<class S>
+Stack<S>::Stack(){
+  arraySize = 0;
+  headValue = 0;
+}
+
+template<class S>
+Stack<S>::Stack(int size){
+  arraySize = size;
+  headValue = 0;
+  stack = new S *[size];
+}
